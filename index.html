@@ -394,7 +394,7 @@
     </div>
 
     <footer class="footer bg-info text-white text-center">
-      <p>Created with <i class="bi bi-suit-heart-fill text-danger"></i> by <a class="text-white fw-bold" href="http://didiianto.github.io">Didik</a></p>
+      <p> &copy; <span id="currentYear"></span> Created with <i class="bi bi-suit-heart-fill text-danger"></i> by <a class="text-white fw-bold" href="http://didiianto.github.io">Didik</a></p>
     </footer>
     <script src="js/core/jquery.3.2.1.min.js?ver=1.1.0"></script>
     <script src="js/core/popper.min.js?ver=1.1.0"></script>
@@ -402,6 +402,14 @@
     <script src="js/now-ui-kit.js?ver=1.1.0"></script>
     <script src="js/aos.js?ver=1.1.0"></script>
     <script src="scripts/main.js?ver=1.1.0"></script>
+
+    <script type="text/javascript">
+      // Get the current year
+      const currentYear = new Date().getFullYear();
+
+      // Display the current year in the HTML element with the ID 'currentYear'
+      document.getElementById('currentYear').textContent = currentYear;
+    </script>
     
     <!--Start of Tawk.to Script-->
     <script type="text/javascript">
