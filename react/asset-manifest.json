@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/react/static/css/main.51c306dd.css",
-    "main.js": "/react/static/js/main.7eb13fd9.js",
-    "static/js/453.81f383cb.chunk.js": "/react/static/js/453.81f383cb.chunk.js",
+    "main.css": "/react/static/css/main.b0512ad0.css",
+    "main.js": "/react/static/js/main.e776b765.js",
+    "static/js/453.0d2defce.chunk.js": "/react/static/js/453.0d2defce.chunk.js",
+    "static/media/CV-Didik.pdf": "/react/static/media/CV-Didik.b95c9f4534626eb3d426.pdf",
+    "static/media/home-main.svg": "/react/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/home-bg.jpg": "/react/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/react/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/react/index.html",
-    "main.51c306dd.css.map": "/react/static/css/main.51c306dd.css.map",
-    "main.7eb13fd9.js.map": "/react/static/js/main.7eb13fd9.js.map",
-    "453.81f383cb.chunk.js.map": "/react/static/js/453.81f383cb.chunk.js.map"
+    "main.b0512ad0.css.map": "/react/static/css/main.b0512ad0.css.map",
+    "main.e776b765.js.map": "/react/static/js/main.e776b765.js.map",
+    "453.0d2defce.chunk.js.map": "/react/static/js/453.0d2defce.chunk.js.map"
   },
   "entrypoints": [
-    "/react/static/css/main.51c306dd.css",
-    "/react/static/js/main.7eb13fd9.js"
+    "static/css/main.b0512ad0.css",
+    "static/js/main.e776b765.js"
   ]
 }
